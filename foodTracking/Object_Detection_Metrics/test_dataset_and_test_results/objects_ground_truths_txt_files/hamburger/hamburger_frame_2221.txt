@@ -1,0 +1,8 @@
+hamburger 410 110 495 188
+hamburger 519 115 596 202
+hamburger 406 228 490 317
+hamburger 514 236 598 319
+hamburger 739 113 830 204
+hamburger 745 239 832 329
+hamburger 846 109 933 199
+hamburger 845 241 935 331

@@ -1,0 +1,6 @@
+zucchini 429 152 573 190
+zucchini 428 212 577 254
+zucchini 436 271 579 309
+zucchini 757 150 891 206
+zucchini 759 216 905 255
+zucchini 753 285 896 316

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>vlcsnap-2020-10-10-16h42m51s388.png</filename>
+	<path>C:\Users\PraYur\Documents\Electrolux\Robotica\codice_python\vision\Mask_RCNN-master\samples\food2\ImageSets\vlcsnap-2020-10-10-16h42m51s388.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>424</ymin>
+			<xmax>332</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

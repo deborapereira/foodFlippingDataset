@@ -1,0 +1,8 @@
+eggplant 419 119 490 190
+eggplant 511 126 585 193
+eggplant 417 244 488 310
+eggplant 519 250 589 318
+eggplant 761 120 822 196
+eggplant 748 245 822 315
+eggplant 850 127 925 192
+eggplant 858 240 925 320
