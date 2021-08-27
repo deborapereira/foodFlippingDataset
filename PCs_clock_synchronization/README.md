@@ -2,7 +2,8 @@
 
 The clocks of the two computers were synchronized by calculating the time difference between them, each day of experiments. To do so, the two computers were connected through an Ethernet cable and a custom code (the server and client code in this repo) was run on each computer to establish a standard TCP/IP communication between them (see the illustration below): a message was sent from computer 1 to computer 2 (in red), and the second computer replied back (in yellow); the LabRecorder app was also running in each computer (independently of one another), to record three timestamps – the app in the first computer registered the instant when the message of computer 1 was sent to computer 2 (t_1) and the instant when the answer of computer 2 arrived to computer 1 (t_3); the app in the second computer registered the instant when the message of computer 1 arrived to computer 2 (t_2). This way, with t_travel=(t_3-t_1)/2 we could get the time of travel, and with t_diff=t_2-t_1-t_travel we could get the time difference between the clocks of the computers. This was done every day, before running the experiments and, later, offline, t_diff  was used to align the timestamps of the data collected by the two computers.
 
-![clocks](https://user-images.githubusercontent.com/65245040/131116448-40b0eb8a-e702-4c1f-9eec-a7781331784f.png)
+![clocks](https://user-images.githubusercontent.com/65245040/131116579-00829a63-99cd-4492-bcf0-b01d07a00cf2.jpg)
+
 
 
 
