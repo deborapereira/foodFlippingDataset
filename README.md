@@ -58,7 +58,7 @@ Computer vision (CV) method to track the 2D position of the food in the video re
 
 This research can be cited as:
 
-Pereira D., De Pra Y., Tiberi E., Monaco V., Dario P., Ciuti G. (2021) Flipping food during grilling tasks: a dataset of utensils kinematics and dynamics, food pose and subject gaze. Scientific Data
+Pereira D., De Pra Y., Tiberi E., Monaco V., Dario P., Ciuti G. (2022) Flipping food during grilling tasks: a dataset of utensils kinematics and dynamics, food pose and subject gaze. Scientific Data
 
 
 #### References
