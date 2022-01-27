@@ -61,6 +61,11 @@ This research can be cited as:
 Pereira D., De Pra Y., Tiberi E., Monaco V., Dario P., Ciuti G. (2022) Flipping food during grilling tasks: a dataset of utensils kinematics and dynamics, food pose and subject gaze. Scientific Data
 
 
+## Acknowledgments
+
+This work was partially supported by Electrolux Professional SpA and by European Union’s Horizon 2020 research and innovation programme under grant agreement N. 730994, project TERRINet - The European Robotics Research Infrastructure Network.
+
+
 #### References
 
 [1] Tits, M., Tilmanne, J. & Dutoit, T. Robust and automatic motion-capture data recovery using soft skeleton constraints and model averaging.PloS one13, e0199744 (2018).
@@ -68,3 +73,4 @@ Pereira D., De Pra Y., Tiberi E., Monaco V., Dario P., Ciuti G. (2022) Flipping 
 [2] Burger, B. & Toiviainen, P. MoCap Toolbox – A Matlab toolbox for computational analysis of movement data. In Bresin, R. (ed.)Proceedings of the 10th Sound and Music Computing Conference, 172–178 (KTH Royal Institute of Technology, Stockholm, Sweden, 2013).
 
 [3] He, K., Gkioxari, G., Dollár, P. & Girshick, R. Mask R-CNN. Preprint at https://arxiv.org/abs/1703.06870 (2014).
+
